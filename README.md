@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Shiv Kumar.
+## Hi there! 👋 I'm Shiv.
 
 ### 🚀 AI/ML Enthusiast | Software Developer | Tech Explorer
 
