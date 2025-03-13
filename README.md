@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate **AI & ML Engineer** in the maki
 ### 💻 **Software Development & Programming**
 - **Python** (Data structures, Algorithms, and Scripting)
 - **Java** (Object-Oriented Programming, DSA, and System Design)
-- **C++ (Basic Understanding)**
+- **SQL (Basic Understanding)**
 
 ### 🌐 **Web Development**
 - **Frontend**: HTML, CSS, JavaScript
