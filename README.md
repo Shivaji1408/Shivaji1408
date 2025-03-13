@@ -53,8 +53,9 @@ Welcome to my GitHub profile! I am a passionate **AI & ML Engineer** in the maki
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiv-kumar-95777a273/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/yourusername/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=google-chrome)](https://yourportfolio.com/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/shivkumar14)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Sk_Shivu/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/shivaji0837/) 
 
 ---
 
