@@ -31,7 +31,7 @@ I believe in **learning by doing** — creating real-world solutions, experiment
 ### 🗄️ **Databases & System Concepts**
 - **Databases**: SQL & MongoDB  
 - **Operating System** concepts and internal workings  
-- **Computer Networks**: Currently learning fundamentals  
+- **Computer Networks**: Learned core concepts, protocols, and networking models  
 
 ---
 
