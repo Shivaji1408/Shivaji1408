@@ -1,53 +1,57 @@
 ## Hi there! 👋 I'm Shiv.
 
-### 🚀 AI/ML Enthusiast | Software Developer | Tech Explorer
+### 🚀 Passionate Learner | Tech Explorer | Future AI/ML Engineer
 
-Welcome to my GitHub profile! I am a passionate **AI & ML Engineer** in the making, with a strong foundation in software development and problem-solving. My journey in **Artificial Intelligence, Machine Learning, and Software Development** has been an exciting ride, and I'm continuously exploring new technologies to sharpen my skills.  
-
----
-
-## 💡 About Me
-🎓 **B.Tech CSE (AI, ML & IoT) Student**  
-💻 Passionate about **AI/ML, Algorithms, and Software Development**  
-📚 Always learning and building new projects  
+Welcome to my GitHub profile! I'm an enthusiastic learner with a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Software Development**. I love exploring new technologies, building cool stuff, and contributing to the ever-evolving tech world. Every day is an opportunity to learn and grow!
 
 ---
 
-## 🔥 Skills & Technologies
+## 💡 Let's Build Together
+
+I believe in **learning by doing** — creating real-world solutions, experimenting with emerging tools, and staying curious. Whether it's working on AI models, writing clean code, or exploring new frameworks, I’m always eager to dive in and get better.
+
+---
+
+## 🔧 Skills & Technologies *(Learning & Growing)*
 
 ### 🤖 **Artificial Intelligence & Machine Learning**
-- Basics of **Machine Learning** (Supervised & Unsupervised Learning)
-- Advanced **ML Techniques** (Regression, Classification, Clustering, etc.)
-- **AI Algorithms** (BFS, DFS, A*, Dijkstra's Algorithm, and more...)
+- Fundamentals of **Machine Learning**: Supervised & Unsupervised Learning  
+- Exploring techniques like **Regression**, **Classification**, and **Clustering**  
+- Learning popular **AI Algorithms** like BFS, DFS, Dijkstra, A*, and more  
 
-### 💻 **Software Development & Programming**
-- **Python** (Data structures, Algorithms, and Scripting)
-- **Java** (Object-Oriented Programming, DSA, and System Design)
-- **SQL (Basic Understanding)**
+### 💻 **Programming & Software Development**
+- **Python**: Data structures, scripting, and problem-solving  
+- **Java**: Object-Oriented Programming, DSA, and logic building  
+- **SQL**: Understanding database queries and basic operations  
 
-### 🌐 **Web Development**
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
+### 🌐 **Web Development Basics**
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP (learning basics)  
 
-### 🗄️ **Databases & Systems**
-- **Database Management (SQL, MongoDB)**
-- **Operating Systems (Concepts & Implementations)**
-- **Computer Networks (Currently Learning)**
-
----
-
-## 📌 What I'm Currently Learning
-- **Advanced AI Algorithms** and Problem-Solving Strategies
-- **Data Structures & Algorithms using Java**
-- **Computer Networks & Security Concepts**
+### 🗄️ **Databases & System Concepts**
+- **Databases**: SQL & MongoDB  
+- **Operating System** concepts and internal workings  
+- **Computer Networks**: Currently learning fundamentals  
 
 ---
 
-## 🚀 My Goals
-- Become a **Proficient AI/ML Engineer & Software Developer**
-- Contribute to **open-source projects**
-- Build **real-world AI applications**
-- Solve complex **coding challenges** & participate in **hackathons**
+## 📚 What I'm Learning Right Now
+
+✨ I'm focusing on building my foundations and growing step-by-step. Here's what I'm diving into:
+
+- 🐍 **Python for Machine Learning** – Data handling, model building, and automation  
+- ⚙️ **Java + DSA** – Problem-solving and cracking logic-based challenges  
+- 🌐 **Web Development Basics** – Understanding the web using HTML, CSS, JS  
+
+---
+
+## 🎯 My Current Goals
+
+- Become a **skilled AI/ML Engineer** with strong fundamentals  
+- Improve my **coding problem-solving** through regular practice  
+- Work on **real-world tech projects** and gain practical experience  
+- Start contributing to **open-source** communities  
+- Participate in **hackathons** and team collaborations  
 
 ---
 
@@ -59,4 +63,4 @@ Welcome to my GitHub profile! I am a passionate **AI & ML Engineer** in the maki
 
 ---
 
-📌 *Always open to collaborations, discussions, and learning opportunities!* 🚀
+📌 *Open to learning, collaborating, and exploring new ideas!* 🚀
