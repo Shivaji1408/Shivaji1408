@@ -63,8 +63,8 @@ I believe in **learning by building** — whether it’s AI-powered applications
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaji0837&show_icons=true&theme=tokyonight" alt="Shiv's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaji0837&theme=tokyonight" alt="Shiv's GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivaji1408&show_icons=true&theme=tokyonight" alt="Shiv's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaji1408&theme=tokyonight" alt="Shiv's GitHub streak" height="170"/>
 </p>
 
 <p align="center">
