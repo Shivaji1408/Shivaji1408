@@ -68,7 +68,7 @@ I believe in **learning by building** — whether it’s AI-powered applications
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaji0837&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaji1408&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </p>
 
 ---
